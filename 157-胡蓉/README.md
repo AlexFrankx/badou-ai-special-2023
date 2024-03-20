@@ -54,3 +54,11 @@ w10-4_resnet
 1.实现inceptionv3 2.实现mobilenet
 w11-1_inception
 w11-2-mobilenet
+
+第十二周作业 
+1.实现fasterrcnn
+
+第十三周作业
+1.实现yolov3 2.实现mtcnn
+
+
